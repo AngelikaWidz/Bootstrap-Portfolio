@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(219, 124, 0);
+}
+
+.NavBar {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Hero {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
