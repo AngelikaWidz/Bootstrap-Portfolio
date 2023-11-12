@@ -2,11 +2,32 @@ body {
     background-color: rgb(219, 124, 0);
 }
 
-.NavBar {
+.navbar {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(20, 20, 20);
 }
 
 .Hero {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 15px;
+    display: grid inline-grid;
+}
+
+.Work {
+    display: flex;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.card {
+    margin: 10px;
+    width: 20px;
+}
+
+.Skills {
+    margin-left: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    display: grid inline-grid;
 }
